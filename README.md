@@ -1,0 +1,3 @@
+# FKC Postgraduate portal – draft v1
+Upload index.html, style.css and assets/ to the root of a GitHub repository named fkc-pg-computer-engineering. In Settings > Pages, choose Deploy from a branch, main, /(root), then Save.
+This is a single-page responsive starter. No student data is collected. Supervisor profiles, dates and faculty documents are intentionally pending. Confirm regulatory details, programme codes, branding approval and public staff data before launch. Hero uses a CSS gradient pending a generated banner. External links are supplied or previously discussed, not live-tested in this build.
